@@ -9,6 +9,7 @@ What is a factory function? It is a function that returns an object literal. Act
 To understand factory functions it is helpful to understand how they are different from classes and their constructor functions.
 
 Check out this example below.
+(Example based on [Fun Fun Function][fun-fun-function])
 
 ``` javascript
 
@@ -102,7 +103,7 @@ Accessing "sound" directly from outside the "dog" function is not possible - the
 
 ***********
 
-When should you even consider using classes over factory functions?
+When should you consider using classes over factory functions?
 
 Honestly this question is hard to answer and there are many discussions. Check out [this one][eric-elliott] for example.
 
@@ -113,8 +114,6 @@ One benefit of factory functions over classes is the syntax. Classes require the
 Classes can be favorable when you are coming from a class based language, like Ruby or C#, where you are taught to use classes and constructors. Also, creating a class object is a little bit faster than creating an object via a factory function. So if your website is creating thousands of object per frame, there is a slight performance difference.
 
 
-
-(Many thanks to and heavily inspired by [Fun Fun Function][fun-fun-function])
 
 
 [eric-elliott]: (https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)

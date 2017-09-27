@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Get the Current Week in Javascript"
-date:   2017-09-21 12:11:03 +0200
+date:   2017-08-12 12:11:03 +0200
 categories: javascript
 ---
 Currently I am working on my final project for my coding bootcamp - a Habit Tracker! And in this habit tracker the user will be able to click on a date of the current week to mark the habit as "done".
