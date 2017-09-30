@@ -108,3 +108,10 @@ What makes Object Composition possible is Object.assign(). An empty object is co
 
 So remember,
 > Favor object composition over class inheritance.
+
+<br><br>
+
+Further reads:  
+* [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)  
+* [Classless Javascript (Composition over Inheritance)](https://medium.com/front-end-hacking/classless-javascript-composition-over-inheritance-6b27c35893b1)  
+* [Prototypal Inheritance in JavaScript](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
